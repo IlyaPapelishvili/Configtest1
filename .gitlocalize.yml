@@ -11,7 +11,7 @@ synchronize:
   - source: .
     exclude:
     - "broken/*"
-    - "_ Bigfile-en.po"
+    - "_Bigfile-en.po"
     
 pretranslate:
   segments:
