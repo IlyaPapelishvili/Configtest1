@@ -10,9 +10,10 @@ synchronize:
   paths:
   - source: .
     exclude:
+    -"_Bigfile-en.po"
     - "broken/*"
-    include:
-     -"_Bigfile-en.po"
+  
+    
     
 pretranslate:
   segments:
