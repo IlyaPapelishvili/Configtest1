@@ -10,8 +10,8 @@ synchronize:
   paths:
   - source: .
     exclude:
-        - "broken/*"
-    -"_Bigfile-en.po"
+    - "broken/*"
+    - "_Bigfile-en.po"
 
   
     
