@@ -12,6 +12,7 @@ synchronize:
     exclude:
     - "broken/*"
     - "FilePicture.md"
+    -"forma.html"
 
   
     
