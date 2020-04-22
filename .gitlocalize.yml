@@ -11,7 +11,7 @@ synchronize:
   - source: .
     exclude:
     - "broken/*"
-    - "_Bigfile-en.po"
+    - "FilePicture.md"
 
   
     
